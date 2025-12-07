@@ -20,6 +20,11 @@ Setup
 3. Run the frontend
 ```npm run dev```
 
-
 App will run at:
 http://localhost:5173
+
+# Screenshots
+
+![Screenshot](./screenshots/home1.png)
+![Screenshot](./screenshots/home2.png)
+![Screenshot](./screenshots/share1.png)
